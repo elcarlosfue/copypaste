@@ -1,0 +1,12 @@
+{
+"companyName": "Tour",
+"productName": "Tour 360º",
+"dataUrl": "copy paste.data.unityweb",
+"wasmCodeUrl": "copy paste.wasm.code.unityweb",
+"wasmFrameworkUrl": "copy paste.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
